@@ -1,1 +1,3 @@
-123
+запуск проекта: 
+cd diplom
+npm start
