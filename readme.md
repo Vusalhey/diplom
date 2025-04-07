@@ -1,3 +1,3 @@
 запуск проекта: 
-cd diplom
-npm start
+- cd diplom
+- npm start
