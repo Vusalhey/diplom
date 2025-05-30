@@ -1,0 +1,14 @@
+.gallery {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  flex-wrap: wrap;
+  margin: 2rem 0;
+}
+
+.gallery img {
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  border-radius: 5px;
+  max-width: 100%;
+  height: auto;
+}

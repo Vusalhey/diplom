@@ -1,0 +1,39 @@
+.result-screen {
+  width: 100%;
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 1rem;
+}
+
+.seed-section {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 2rem;
+}
+
+.manual-seed {
+  color: red;
+  font-size: 0.9em;
+}
+
+.copy-button {
+  padding: 5px 10px;
+  cursor: pointer;
+}
+
+.instructions {
+  background-color: #eef3fb;
+  border-left: 5px solid #007bff;
+  padding: 10px;
+  margin: 1rem 0;
+  border-radius: 4px;
+}
+
+.task-placeholder {
+  border: 2px dashed #ccc;
+  padding: 20px;
+  text-align: center;
+  margin-bottom: 2rem;
+  color: #777;
+}

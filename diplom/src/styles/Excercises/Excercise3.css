@@ -1,0 +1,11 @@
+.excercise3 {
+  margin: 1em 0;
+  font-size: 1rem;
+}
+
+.excercise3 pre {
+  background-color: #f4f4f4;
+  padding: 0.5em;
+  border-radius: 6px;
+  white-space: pre-wrap;
+}

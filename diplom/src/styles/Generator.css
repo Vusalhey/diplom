@@ -1,0 +1,33 @@
+.generator {
+  text-align: center;
+  padding: 2rem;
+  max-width: 450px;
+  margin: auto;
+}
+
+.generator-inputs {
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  margin-bottom: 1rem;
+}
+
+.generator input[type="number"],
+.generator input[type="text"] {
+  padding: 0.5rem;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+
+.generator button {
+  padding: 0.5rem 1rem;
+  border: none;
+  background-color: #5c6bc0;
+  color: white;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.generator button:hover {
+  background-color: #3f51b5;
+}

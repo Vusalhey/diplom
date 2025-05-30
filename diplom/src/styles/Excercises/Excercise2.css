@@ -1,0 +1,16 @@
+.excercise2 {
+  margin: 1em 0;
+  font-size: 1rem;
+}
+
+.excercise2 pre {
+  background-color: #f4f4f4;
+  padding: 0.5em;
+  border-radius: 6px;
+  white-space: pre-wrap;
+}
+
+.table-fixed-width {
+  max-width: 600px;
+  margin-top: 1em;
+}
